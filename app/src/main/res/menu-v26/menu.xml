@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/home"/>
+    <item android:title="Books"
+        android:id="@+id/booksFragment"
+        android:icon="@drawable/openbook"/>
+    <item android:title="Saved"
+        android:id="@+id/savedFragment"
+        android:icon="@drawable/bookmark"/>
+    <item android:title="Profile"
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/profileuser" />
+
+
+</menu>

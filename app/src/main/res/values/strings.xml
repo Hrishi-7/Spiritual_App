@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Spiritual App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="web_client_id">875708448472-p28dcgdlo20od09d868bh0r8g2jr7ib4.apps.googleusercontent.com</string>
+
+    <string name="bhagwat_gita_desc">The Bhagavadgita is an episode recorded in the Mahabharata, a Sanskrit epic poem of ancient India. It is an influential religious text in Hinduism that takes the form of a dialogue between Prince Arjuna and Krishna, an avatar of the Hindu deity Vishnu.</string>
+    <string name="ramayana_desc">It is the story of King Rama who must save his kidnapped wife, Sita. Along the way, it teaches Hindu life lessons. The Ramayana is told and retold orally, through literature (and comic books!), plays, movies and is reference in many other forms of popular culture today.</string>
+
+    <string-array name="string_arr">
+        <item>The Bhagavadgita is an episode recorded in the Mahabharata, a Sanskrit epic poem of ancient India. It is an influential religious text in Hinduism that takes the form of a dialogue between Prince Arjuna and Krishna, an avatar of the Hindu deity Vishnu.</item>
+        <item>It is the story of King Rama who must save his kidnapped wife, Sita. Along the way, it teaches Hindu life lessons. The Ramayana is told and retold orally, through literature (and comic books!), plays, movies and is reference in many other forms of popular culture today.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "875708448472",
+    "project_id": "spiritual-app-56c31",
+    "storage_bucket": "spiritual-app-56c31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875708448472:android:960be4d01cd50dbbdda1ad",
+        "android_client_info": {
+          "package_name": "com.hrishikesh.spiritualapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875708448472-h1ecu8kk4tdnmv4l69ur2i7tmiop4uo2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hrishikesh.spiritualapp",
+            "certificate_hash": "c723d14692ed193e546cd29d41bf92f12ac5d756"
+          }
+        },
+        {
+          "client_id": "875708448472-p28dcgdlo20od09d868bh0r8g2jr7ib4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYkPuUMAoHufElEkOU2vVf2UHFdoIHEyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875708448472-p28dcgdlo20od09d868bh0r8g2jr7ib4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
